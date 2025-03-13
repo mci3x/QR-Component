@@ -54,18 +54,9 @@ body {
 
 .card-text {
   font-size: 15px;
-
-  /* font-weight: 400; seemed to be too bold so I decreased it to 300*/
-  font-weight: 300;
+  /* seemed to be too bold so I decreased it to 300 */
+  font-weight: 400;
+  /* font-weight: 300; */
   letter-spacing: 0.2px;
   line-height: 140%;
-}
-
-.attribution {
-  font-size: 15px;
-  text-align: left;
-  font-weight: 300;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
 }
