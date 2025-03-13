@@ -54,9 +54,7 @@ body {
 
 .card-text {
   font-size: 15px;
-  /* seemed to be too bold so I decreased it to 300 */
   font-weight: 400;
-  /* font-weight: 300; */
   letter-spacing: 0.2px;
   line-height: 140%;
 }
