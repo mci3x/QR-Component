@@ -26,7 +26,7 @@ Used fixed size as suggested. No responsive design.
 
 ### Links
 
-- Solution URL: [https://mci3x.github.io/QR-Component/](https://mci3x.github.io/QR-Component/)
+- Solution URL: [https://github.com/mci3x/QR-Component/tree/cleaner](https://github.com/mci3x/QR-Component/tree/cleaner)
 - Live Site URL: [https://mci3x.github.io/QR-Component/](https://mci3x.github.io/QR-Component/)
 
 ## My process
