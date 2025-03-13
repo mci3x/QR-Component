@@ -26,8 +26,8 @@ Used fixed size as suggested. No responsive design.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://mci3x.github.io/QR-Component/](https://mci3x.github.io/QR-Component/)
+- Live Site URL: [https://mci3x.github.io/QR-Component/](https://mci3x.github.io/QR-Component/)
 
 ## My process
 
