@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #d5e1ef;
+  background-color: hsl(212, 45%, 89%);
   font-family: "Outfit", sans-serif;
 }
 
@@ -42,14 +42,15 @@ body {
   justify-content: space-between;
   text-align: center;
   height: 100%;
-  margin-bottom: 24px;
   padding: 0 16px;
+  margin-bottom: 24px;
 }
 
 .title {
   font-size: 22px;
   font-weight: 700;
   line-height: 120%;
+  color: hsl(218, 44%, 22%);
 }
 
 .card-text {
@@ -57,4 +58,5 @@ body {
   font-weight: 400;
   letter-spacing: 0.2px;
   line-height: 140%;
+  color: hsl(216, 15%, 48%);
 }
